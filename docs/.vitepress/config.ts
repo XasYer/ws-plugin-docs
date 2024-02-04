@@ -47,5 +47,6 @@ export default defineConfig({
       { icon: 'github', link: 'https://github.com/XasYer/ws-plugin' }
     ]
   },
+  cleanUrls: true,
   base: '/ws-plugin-docs/'
 })
