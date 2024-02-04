@@ -2,6 +2,9 @@
   "name": "ws-plugin-docs",
   "type": "module",
   "version": "0.0.1",
+  "license": "MIT",
+  "repository": "https://github.com/XasYer/ws-plugin-docs.git",
+  "author": "小叶 <1936472877@qq.com>",
   "devDependencies": {
     "vitepress": "^1.0.0-rc.41"
   },
